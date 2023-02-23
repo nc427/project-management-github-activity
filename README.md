@@ -21,7 +21,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2. docker files and merging
 3. git stash
 #### Things we want to know next**
-1.  Elastic Search Indexing [1]
+1.  remove a stopped container
 2.  Cloud deployment with Kubernetes[2]
 3.  Teraform[1]
 
