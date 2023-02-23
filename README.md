@@ -15,7 +15,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we understand**
 1.  push
 2.  status
-3.  Docker Installation[1]
+3.  fetch
 #### Things we don't understand
 1. docker ps
 2. docker files and merging
