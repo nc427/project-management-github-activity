@@ -19,7 +19,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we don't understand
 1. docker files and merging[1]
 2. git stash[1]
-3. GIT status[1]
+3. upstream repository[1]
 #### Things we want to know next**
 1.  remove a stopped container [1]
 2.  view resource usage stats[1]
